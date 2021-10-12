@@ -1,0 +1,4503 @@
+fileFormatVersion: 2
+guid: d49a5960095ff43408bc8a02ea713529
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4566551358173590068
+    second: rpg_character_0
+  - first:
+      213: 1250724968197730098
+    second: rpg_character_1
+  - first:
+      213: 865637615008815882
+    second: rpg_character_2
+  - first:
+      213: -6089268890228576249
+    second: rpg_character_3
+  - first:
+      213: 7803076612712142173
+    second: rpg_character_4
+  - first:
+      213: 3183842322617269064
+    second: rpg_character_5
+  - first:
+      213: -2343537180100209746
+    second: rpg_character_6
+  - first:
+      213: 836870287754956474
+    second: rpg_character_7
+  - first:
+      213: 3921246487372101286
+    second: rpg_character_8
+  - first:
+      213: -8307486959726074088
+    second: rpg_character_9
+  - first:
+      213: -5759362505202833849
+    second: rpg_character_10
+  - first:
+      213: 8077971218393389506
+    second: rpg_character_11
+  - first:
+      213: 33307637716007565
+    second: rpg_character_12
+  - first:
+      213: -3016433368489474733
+    second: rpg_character_13
+  - first:
+      213: -3600793954228380027
+    second: rpg_character_14
+  - first:
+      213: 5186327864118205062
+    second: rpg_character_15
+  - first:
+      213: -3649816129047975249
+    second: rpg_character_16
+  - first:
+      213: -221448564254161731
+    second: rpg_character_17
+  - first:
+      213: 4550633347799105637
+    second: rpg_character_18
+  - first:
+      213: -1321844284129563810
+    second: rpg_character_19
+  - first:
+      213: -1054607991658373166
+    second: rpg_character_20
+  - first:
+      213: -1889378454127245581
+    second: rpg_character_21
+  - first:
+      213: -619475810135459614
+    second: rpg_character_22
+  - first:
+      213: -4458939865936115283
+    second: rpg_character_23
+  - first:
+      213: 6067869614443152573
+    second: rpg_character_24
+  - first:
+      213: -7038748553135410271
+    second: rpg_character_25
+  - first:
+      213: 8326658380362873249
+    second: rpg_character_26
+  - first:
+      213: -3949111560086794523
+    second: rpg_character_27
+  - first:
+      213: -6742780528650410697
+    second: rpg_character_28
+  - first:
+      213: -2836415966702756225
+    second: rpg_character_29
+  - first:
+      213: 5915810866534704669
+    second: rpg_character_30
+  - first:
+      213: 7244100002161809569
+    second: rpg_character_31
+  - first:
+      213: 2054632266574579866
+    second: rpg_character_32
+  - first:
+      213: -4558245374516319005
+    second: rpg_character_33
+  - first:
+      213: -5602743649624373423
+    second: rpg_character_34
+  - first:
+      213: -1133600646110124746
+    second: rpg_character_35
+  - first:
+      213: -1970454864634938351
+    second: rpg_character_36
+  - first:
+      213: -3907112080502534200
+    second: rpg_character_37
+  - first:
+      213: 2048754510448183846
+    second: rpg_character_38
+  - first:
+      213: -2846593634162571162
+    second: rpg_character_39
+  - first:
+      213: 8567097210325814387
+    second: rpg_character_40
+  - first:
+      213: 2416284076605398549
+    second: rpg_character_41
+  - first:
+      213: -1691355535857788801
+    second: rpg_character_42
+  - first:
+      213: 8614963846361978873
+    second: rpg_character_43
+  - first:
+      213: -2349755190991511279
+    second: rpg_character_44
+  - first:
+      213: -2769526529314897146
+    second: rpg_character_45
+  - first:
+      213: 8598643246921589926
+    second: rpg_character_46
+  - first:
+      213: -4593748010742981562
+    second: rpg_character_47
+  - first:
+      213: -858615728919069842
+    second: rpg_character_48
+  - first:
+      213: 2857759517900154057
+    second: rpg_character_49
+  - first:
+      213: -8250359015421657355
+    second: rpg_character_50
+  - first:
+      213: -1062918091161624760
+    second: rpg_character_51
+  - first:
+      213: 1890047849824377599
+    second: rpg_character_52
+  - first:
+      213: -2083631584038220
+    second: rpg_character_53
+  - first:
+      213: -6686528228242871397
+    second: rpg_character_54
+  - first:
+      213: 565624326573093198
+    second: rpg_character_55
+  - first:
+      213: 2050076093784282447
+    second: rpg_character_56
+  - first:
+      213: -7645898202854819783
+    second: rpg_character_57
+  - first:
+      213: 7655390666508804136
+    second: rpg_character_58
+  - first:
+      213: -2854613148929196908
+    second: rpg_character_59
+  - first:
+      213: -3962903180664266565
+    second: rpg_character_60
+  - first:
+      213: 2251733724527352229
+    second: rpg_character_61
+  - first:
+      213: -5364836879246951440
+    second: rpg_character_62
+  - first:
+      213: 3094804082185723639
+    second: rpg_character_63
+  - first:
+      213: -2469155757968857951
+    second: rpg_character_64
+  - first:
+      213: 1671091306349592627
+    second: rpg_character_65
+  - first:
+      213: 8336780888823604662
+    second: rpg_character_66
+  - first:
+      213: -4579980599702234794
+    second: rpg_character_67
+  - first:
+      213: 5183916576633696258
+    second: rpg_character_68
+  - first:
+      213: -7418952730692459618
+    second: rpg_character_69
+  - first:
+      213: -6872441909028803462
+    second: rpg_character_70
+  - first:
+      213: 69961279800128148
+    second: rpg_character_71
+  - first:
+      213: 2934306032006418476
+    second: rpg_character_72
+  - first:
+      213: -8693454219186440264
+    second: rpg_character_73
+  - first:
+      213: 1485201180189320809
+    second: rpg_character_74
+  - first:
+      213: -3882961354133417412
+    second: rpg_character_75
+  - first:
+      213: 3403355967215116420
+    second: rpg_character_76
+  - first:
+      213: 6225165448687787863
+    second: rpg_character_77
+  - first:
+      213: -1435815413140644446
+    second: rpg_character_78
+  - first:
+      213: -4605084548570982962
+    second: rpg_character_79
+  - first:
+      213: -3637525226310181764
+    second: rpg_character_80
+  - first:
+      213: 225592585289360161
+    second: rpg_character_81
+  - first:
+      213: 7844475770152023394
+    second: rpg_character_82
+  - first:
+      213: -2146662224925719140
+    second: rpg_character_83
+  - first:
+      213: 7154524265907448816
+    second: rpg_character_84
+  - first:
+      213: -320430230657406725
+    second: rpg_character_85
+  - first:
+      213: 3521878091538717599
+    second: rpg_character_86
+  - first:
+      213: 398080931419412165
+    second: rpg_character_87
+  - first:
+      213: -4460587265041629386
+    second: rpg_character_88
+  - first:
+      213: -6531706874178370757
+    second: rpg_character_89
+  - first:
+      213: 7635747042729428899
+    second: rpg_character_90
+  - first:
+      213: -1665149536227673368
+    second: rpg_character_91
+  - first:
+      213: -8541934551255822632
+    second: rpg_character_92
+  - first:
+      213: 6912263869899657734
+    second: rpg_character_93
+  - first:
+      213: -637260088435191272
+    second: rpg_character_94
+  - first:
+      213: -6817111419665373661
+    second: rpg_character_95
+  - first:
+      213: 1635863271513351235
+    second: rpg_character_96
+  - first:
+      213: -6352008685799501240
+    second: rpg_character_97
+  - first:
+      213: -8862683287512053064
+    second: rpg_character_98
+  - first:
+      213: -2367490947165312400
+    second: rpg_character_99
+  - first:
+      213: -3902593467538243098
+    second: rpg_character_100
+  - first:
+      213: -4892411520285516433
+    second: rpg_character_101
+  - first:
+      213: -3197899203304223243
+    second: rpg_character_102
+  - first:
+      213: 4558479902387847608
+    second: rpg_character_103
+  - first:
+      213: -5829955190765978565
+    second: rpg_character_104
+  - first:
+      213: 1815959767881817927
+    second: rpg_character_105
+  - first:
+      213: 4301810754520676235
+    second: rpg_character_106
+  - first:
+      213: 5481000682178603105
+    second: rpg_character_107
+  - first:
+      213: -7950369329860799789
+    second: rpg_character_108
+  - first:
+      213: 4344374732174718367
+    second: rpg_character_109
+  - first:
+      213: 7177027093962064483
+    second: rpg_character_110
+  - first:
+      213: 5688369345009887055
+    second: rpg_character_111
+  - first:
+      213: 4738773228206341030
+    second: rpg_character_112
+  - first:
+      213: -7681542891079658402
+    second: rpg_character_113
+  - first:
+      213: -8490559428038946511
+    second: rpg_character_114
+  - first:
+      213: 8152278901380943215
+    second: rpg_character_115
+  - first:
+      213: 49592447660297179
+    second: rpg_character_116
+  - first:
+      213: 3193042341857858900
+    second: rpg_character_117
+  - first:
+      213: 4441458571010574898
+    second: rpg_character_118
+  - first:
+      213: -769452350741143375
+    second: rpg_character_119
+  - first:
+      213: -4952103616342656308
+    second: rpg_character_120
+  - first:
+      213: -2896955682322580844
+    second: rpg_character_121
+  - first:
+      213: -5726771730952057361
+    second: rpg_character_122
+  - first:
+      213: -6464702947372297035
+    second: rpg_character_123
+  - first:
+      213: -3890810659369125802
+    second: rpg_character_124
+  - first:
+      213: -3368078541722849575
+    second: rpg_character_125
+  - first:
+      213: 3444939502970661725
+    second: rpg_character_126
+  - first:
+      213: 7699765458869082321
+    second: rpg_character_127
+  - first:
+      213: -683400310111239133
+    second: rpg_character_128
+  - first:
+      213: -5624587754173396692
+    second: rpg_character_129
+  - first:
+      213: -8482634733664209635
+    second: rpg_character_130
+  - first:
+      213: 2685913797675410239
+    second: rpg_character_131
+  - first:
+      213: 6304497262108322218
+    second: rpg_character_132
+  - first:
+      213: -727132762393378489
+    second: rpg_character_133
+  - first:
+      213: 7530258558952492425
+    second: rpg_character_134
+  - first:
+      213: 2500278828236272428
+    second: rpg_character_135
+  - first:
+      213: -8396386910557348215
+    second: rpg_character_136
+  - first:
+      213: 3467149362693083688
+    second: rpg_character_137
+  - first:
+      213: -6247101495545795762
+    second: rpg_character_138
+  - first:
+      213: -6796201666510036135
+    second: rpg_character_139
+  - first:
+      213: -3214959565266582752
+    second: rpg_character_140
+  - first:
+      213: 4502823816464185627
+    second: rpg_character_141
+  - first:
+      213: 5026776402696021964
+    second: rpg_character_142
+  - first:
+      213: -4314556582256652625
+    second: rpg_character_143
+  - first:
+      213: -4991147794366741443
+    second: rpg_character_144
+  - first:
+      213: -909846888570303046
+    second: rpg_character_145
+  - first:
+      213: -8455353052371507605
+    second: rpg_character_146
+  - first:
+      213: -9123462079204725288
+    second: rpg_character_147
+  - first:
+      213: 2216836960827381104
+    second: rpg_character_148
+  - first:
+      213: -3795982128641993436
+    second: rpg_character_149
+  - first:
+      213: 4109737161957576551
+    second: rpg_character_150
+  - first:
+      213: -1079249879481380092
+    second: rpg_character_151
+  - first:
+      213: 3629352390105229748
+    second: rpg_character_152
+  - first:
+      213: -8996753012960287198
+    second: rpg_character_153
+  - first:
+      213: 5551186198547076137
+    second: rpg_character_154
+  - first:
+      213: -6522528982001954988
+    second: rpg_character_155
+  - first:
+      213: 8737838498161432014
+    second: rpg_character_156
+  - first:
+      213: 5977603948891815873
+    second: rpg_character_157
+  - first:
+      213: 1860500271992359893
+    second: rpg_character_158
+  - first:
+      213: 4823473820944088452
+    second: rpg_character_159
+  - first:
+      213: -8571905185329634394
+    second: rpg_character_160
+  - first:
+      213: 986598617308648672
+    second: rpg_character_161
+  - first:
+      213: 6517665111952843465
+    second: rpg_character_162
+  - first:
+      213: -5185914821888402552
+    second: rpg_character_163
+  - first:
+      213: -959018170171490774
+    second: rpg_character_164
+  - first:
+      213: 2235887232421722184
+    second: rpg_character_165
+  - first:
+      213: -2759467119041677184
+    second: rpg_character_166
+  - first:
+      213: 5204293470035824112
+    second: rpg_character_167
+  - first:
+      213: -5818860776215951926
+    second: rpg_character_168
+  - first:
+      213: -1128752259723548643
+    second: rpg_character_169
+  - first:
+      213: 2599334473962750990
+    second: rpg_character_170
+  - first:
+      213: -1148048863425390571
+    second: rpg_character_171
+  - first:
+      213: 2063552297172115207
+    second: rpg_character_172
+  - first:
+      213: 3313073173971782001
+    second: rpg_character_173
+  - first:
+      213: 3865104687526444460
+    second: rpg_character_174
+  - first:
+      213: -2974303084174398000
+    second: rpg_character_175
+  - first:
+      213: -2430914916445973068
+    second: rpg_character_176
+  - first:
+      213: -7963424156867737335
+    second: rpg_character_177
+  - first:
+      213: -9074757071518272430
+    second: rpg_character_178
+  - first:
+      213: -5927068430628335352
+    second: rpg_character_179
+  - first:
+      213: -5863318053324549284
+    second: rpg_character_180
+  - first:
+      213: 6126753451269021598
+    second: rpg_character_181
+  - first:
+      213: -1248971905742954067
+    second: rpg_character_182
+  - first:
+      213: 2275579513905809026
+    second: rpg_character_183
+  - first:
+      213: -7966246822936930997
+    second: rpg_character_184
+  - first:
+      213: -4743201440177386910
+    second: rpg_character_185
+  - first:
+      213: -2505706231354869442
+    second: rpg_character_186
+  - first:
+      213: 427344097639552236
+    second: rpg_character_187
+  - first:
+      213: 7016488289742071543
+    second: rpg_character_188
+  - first:
+      213: -271120512755354190
+    second: rpg_character_189
+  - first:
+      213: 6805902247732978944
+    second: rpg_character_190
+  - first:
+      213: 2522343866742807260
+    second: rpg_character_191
+  - first:
+      213: 799799168467750501
+    second: rpg_character_192
+  - first:
+      213: -7869586347403363887
+    second: rpg_character_193
+  - first:
+      213: -887855908444309141
+    second: rpg_character_194
+  - first:
+      213: -7539845308751552865
+    second: rpg_character_195
+  - first:
+      213: -8479074864675810100
+    second: rpg_character_196
+  - first:
+      213: -711153796515718155
+    second: rpg_character_197
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_character_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1282
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b3800446af5f30800000000000000
+      internalID: 4566551358173590068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1282
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f23216bb77b5110800000000000000
+      internalID: 1250724968197730098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1282
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b11d213dc530c00800000000000000
+      internalID: 865637615008815882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b618e4329e7ba0800000000000000
+      internalID: -6089268890228576249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d559dd736d81a4c60800000000000000
+      internalID: 7803076612712142173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf47449b74f2c20800000000000000
+      internalID: 3183842322617269064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d43ee9551a7fd0800000000000000
+      internalID: -2343537180100209746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1218
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe86b0c7192d9b00800000000000000
+      internalID: 836870287754956474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1218
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6ff8497e01b6630800000000000000
+      internalID: 3921246487372101286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1218
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817665500a0e5bc80800000000000000
+      internalID: -8307486959726074088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1218
+        width: 33
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7466ea0e052a210b0800000000000000
+      internalID: -5759362505202833849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1218
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9da223608ba1070800000000000000
+      internalID: 8077971218393389506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1218
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8abe5abe15567000800000000000000
+      internalID: 33307637716007565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1218
+        width: 33
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355cc8645d97326d0800000000000000
+      internalID: -3016433368489474733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1154
+        width: 35
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ed7d8f9f8670ec0800000000000000
+      internalID: -3600793954228380027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1154
+        width: 36
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ad97dc6b989f740800000000000000
+      internalID: 5186327864118205062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 33
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db44c9f34b14decf0800000000000000
+      internalID: -221448564254161731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 37
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560cc966be8172f30800000000000000
+      internalID: 4550633347799105637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ba31480add7ade0800000000000000
+      internalID: -1321844284129563810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6087b6e4497c5e0800000000000000
+      internalID: -1889378454127245581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 36
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8bde5680e2767f0800000000000000
+      internalID: -619475810135459614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1090
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cc0001d9ae12c0800000000000000
+      internalID: -4458939865936115283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db44540f347653450800000000000000
+      internalID: 6067869614443152573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1090
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b11bdb77515e90800000000000000
+      internalID: -7038748553135410271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1090
+        width: 33
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9fe8f2eab3e8370800000000000000
+      internalID: 8326658380362873249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_27
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee43aa95ffe139c0800000000000000
+      internalID: -3949111560086794523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7352f5f75d4dc62a0800000000000000
+      internalID: -6742780528650410697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 33
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e9f6dc4b603a8d0800000000000000
+      internalID: -2836415966702756225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1026
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16623ac3ae291250800000000000000
+      internalID: 5915810866534704669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 29
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d2423296388460800000000000000
+      internalID: 7244100002161809569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98cb391925838c10800000000000000
+      internalID: 2054632266574579866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec23e48bfbddb0c0800000000000000
+      internalID: -4558245374516319005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1024
+        width: 32
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574094d55e0f32b0800000000000000
+      internalID: -5602743649624373423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024
+        width: 32
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635e37be734a440f0800000000000000
+      internalID: -1133600646110124746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1024
+        width: 32
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c7e739db987a4e0800000000000000
+      internalID: -1970454864634938351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1024
+        width: 28
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf4208734627c9c0800000000000000
+      internalID: -3907112080502534200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 962
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a4e3b5f53ae6c10800000000000000
+      internalID: 2048754510448183846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 962
+        width: 46
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6680adfeb2ede78d0800000000000000
+      internalID: -2846593634162571162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 962
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cc5b9b58174e670800000000000000
+      internalID: 8567097210325814387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 962
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e5f7ec09d588120800000000000000
+      internalID: 2416284076605398549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_42
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 962
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f785e40f9191788e0800000000000000
+      internalID: -1691355535857788801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_43
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 30
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f71d3769ff7e8770800000000000000
+      internalID: 8614963846361978873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 962
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11122d37a1ef36fd0800000000000000
+      internalID: -2349755190991511279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 962
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4a21bb974845770800000000000000
+      internalID: 8598643246921589926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 898
+        width: 36
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c42ee5f32dc8a720800000000000000
+      internalID: 2857759517900154057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feb9501036d08d80800000000000000
+      internalID: -8250359015421657355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 899
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f99fea0a1cf31f0800000000000000
+      internalID: -1062918091161624760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffad549618cca3a10800000000000000
+      internalID: 1890047849824377599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_53
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 899
+        width: 32
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b23797b2f898fff0800000000000000
+      internalID: -2083631584038220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 899
+        width: 32
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4175b5045089d700800000000000000
+      internalID: 565624326573093198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_57
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 899
+        width: 32
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9387a0e181054e590800000000000000
+      internalID: -7645898202854819783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_59
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c7ae627706268d0800000000000000
+      internalID: -2854613148929196908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 834
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0ad35bd80f009c0800000000000000
+      internalID: -3962903180664266565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9583b64e3cf3f10800000000000000
+      internalID: 2251733724527352229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbf19e48454c85b0800000000000000
+      internalID: -5364836879246951440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fedb107ae3f2fa20800000000000000
+      internalID: 3094804082185723639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 834
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330063670b8e03710800000000000000
+      internalID: 1671091306349592627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_67
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 834
+        width: 30
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659519c09e3a070c0800000000000000
+      internalID: -4579980599702234794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_68
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 834
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200b28f29a8f0f740800000000000000
+      internalID: 5183916576633696258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_69
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9369a97cc59a0990800000000000000
+      internalID: -7418952730692459618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 771
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b48ec96d88f000800000000000000
+      internalID: 69961279800128148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 771
+        width: 33
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20570c1acfb8b820800000000000000
+      internalID: 2934306032006418476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_73
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 770
+        width: 32
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b775429275aa5780800000000000000
+      internalID: -8693454219186440264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 769
+        width: 31
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966ec2dba9e7c9410800000000000000
+      internalID: 1485201180189320809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_75
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 770
+        width: 32
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32de42a833fc1ac0800000000000000
+      internalID: -3882961354133417412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 771
+        width: 33
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480201e68362b3f20800000000000000
+      internalID: 3403355967215116420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_77
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 770
+        width: 32
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f12154efa346650800000000000000
+      internalID: 6225165448687787863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_78
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 769
+        width: 33
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad98b03d75f21ce0800000000000000
+      internalID: -1435815413140644446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_79
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 770
+        width: 32
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec559c970047710c0800000000000000
+      internalID: -4605084548570982962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 706
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c5240441ae48dc0800000000000000
+      internalID: -3637525226310181764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 706
+        width: 29
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1236226d247712300800000000000000
+      internalID: 225592585289360161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 707
+        width: 29
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265f111b62d2ddc60800000000000000
+      internalID: 7844475770152023394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 707
+        width: 30
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c958d8674168532e0800000000000000
+      internalID: -2146662224925719140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_84
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 706
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb635ed9e9f94360800000000000000
+      internalID: 7154524265907448816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 706
+        width: 33
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf86e56276a9d8bf0800000000000000
+      internalID: -320430230657406725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_86
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 706
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b556ce67930e030800000000000000
+      internalID: 3521878091538717599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_87
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 706
+        width: 30
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c65c1d7f74468500800000000000000
+      internalID: 398080931419412165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_88
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 706
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fff81048fc812c0800000000000000
+      internalID: -4460587265041629386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 642
+        width: 35
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b330f935437ba55a0800000000000000
+      internalID: -6531706874178370757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 642
+        width: 35
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a780acba7f97f960800000000000000
+      internalID: 7635747042729428899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 641
+        width: 35
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea3e33b15334e8e0800000000000000
+      internalID: -1665149536227673368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 641
+        width: 35
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec2c168c3f47980800000000000000
+      internalID: -8541934551255822632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_93
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 34
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602d22fed5b4def50800000000000000
+      internalID: 6912263869899657734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_94
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 642
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812594f635ff727f0800000000000000
+      internalID: -637260088435191272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_95
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 34
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326269c4841c461a0800000000000000
+      internalID: -6817111419665373661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_96
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 34
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34469af6af0c3b610800000000000000
+      internalID: 1635863271513351235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_97
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 641
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84299b031c129d7a0800000000000000
+      internalID: -6352008685799501240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_98
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 578
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8d0ba18c610580800000000000000
+      internalID: -8862683287512053064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_99
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 578
+        width: 29
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a224de68bf42fd0800000000000000
+      internalID: -2367490947165312400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_100
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 579
+        width: 29
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e18f980be337d9c0800000000000000
+      internalID: -3902593467538243098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 30
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d5a56b4a9aa1cb0800000000000000
+      internalID: -4892411520285516433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_102
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd0c872e97ce93d0800000000000000
+      internalID: -3197899203304223243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 33
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1c591c159f24f30800000000000000
+      internalID: 4558479902387847608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_104
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf2f574a6d71fa0800000000000000
+      internalID: -5829955190765978565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_105
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 30
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f1ffa99c5933910800000000000000
+      internalID: 1815959767881817927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_106
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f82ad61a13bb30800000000000000
+      internalID: 4301810754520676235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_107
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 514
+        width: 32
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168ede2b41d601c40800000000000000
+      internalID: 5481000682178603105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 513
+        width: 30
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29c74a73d9aa190800000000000000
+      internalID: -7950369329860799789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_109
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 513
+        width: 30
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95f47a2dc15a4c30800000000000000
+      internalID: 4344374732174718367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 513
+        width: 32
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36286fecd1ce99360800000000000000
+      internalID: 7177027093962064483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_111
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 513
+        width: 38
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472980f7c521fe40800000000000000
+      internalID: 5688369345009887055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_112
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 513
+        width: 41
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abbe5ad42183c140800000000000000
+      internalID: 4738773228206341030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 450
+        width: 46
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54154a607da56590800000000000000
+      internalID: -7681542891079658402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_114
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 450
+        width: 29
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13115636f297b2a80800000000000000
+      internalID: -8490559428038946511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_115
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 450
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d09bad776b22170800000000000000
+      internalID: 8152278901380943215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_116
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 34
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb8552811030b000800000000000000
+      internalID: 49592447660297179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_117
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455183ba717ff4c20800000000000000
+      internalID: 3193042341857858900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_118
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 33
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a03b9d90b33ad30800000000000000
+      internalID: 4441458571010574898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 386
+        width: 36
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b02c7ae92b5255f0800000000000000
+      internalID: -769452350741143375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_120
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 34
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaf7f09ff7964bb0800000000000000
+      internalID: -4952103616342656308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_121
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 386
+        width: 34
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49afc19d722fbc7d0800000000000000
+      internalID: -2896955682322580844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_122
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 34
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed8ad2d37b6680b0800000000000000
+      internalID: -5726771730952057361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_123
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 36
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4147bbbe2c846a0800000000000000
+      internalID: -6464702947372297035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_124
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658fff7d150110ac0800000000000000
+      internalID: -3890810659369125802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 322
+        width: 29
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de6ef0496e2241d0800000000000000
+      internalID: -3368078541722849575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_126
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 29
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5be643d932eecf20800000000000000
+      internalID: 3444939502970661725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_127
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 31
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d6b5c3ef0bda60800000000000000
+      internalID: 7699765458869082321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_128
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 34
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3248d6ce9031486f0800000000000000
+      internalID: -683400310111239133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_129
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c298b78ec3371f1b0800000000000000
+      internalID: -5624587754173396692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_130
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 33
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15fd8417a0a74a80800000000000000
+      internalID: -8482634733664209635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_131
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 43
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3363cf4e58464520800000000000000
+      internalID: 2685913797675410239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_132
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 39
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9a3637bd21e7750800000000000000
+      internalID: 6304497262108322218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_133
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 38
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7418ef8ea94b8e5f0800000000000000
+      internalID: -727132762393378489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_134
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 29
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4539234ad08860800000000000000
+      internalID: 7530258558952492425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_135
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 256
+        width: 32
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f374e856c2b220800000000000000
+      internalID: 2500278828236272428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_136
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 30
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e5d7f379a0a7b80800000000000000
+      internalID: -8396386910557348215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_137
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 31
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8221b82c9f9cd1030800000000000000
+      internalID: 3467149362693083688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_138
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 256
+        width: 32
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b6e22d946dd49a0800000000000000
+      internalID: -6247101495545795762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_139
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 256
+        width: 33
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95360c5979a0fa1a0800000000000000
+      internalID: -6796201666510036135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_140
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 256
+        width: 33
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0238a091f4b2263d0800000000000000
+      internalID: -3214959565266582752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_141
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 256
+        width: 29
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b193482776e3d7e30800000000000000
+      internalID: 4502823816464185627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_142
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 256
+        width: 29
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc723085182b2c540800000000000000
+      internalID: 5026776402696021964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_143
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 256
+        width: 29
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faec44fd5ad9f14c0800000000000000
+      internalID: -4314556582256652625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 244
+        width: 4
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34cb477681ebbab0800000000000000
+      internalID: -4991147794366741443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_145
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 194
+        width: 39
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdc5ce43139f53f0800000000000000
+      internalID: -909846888570303046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_146
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 194
+        width: 42
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66a1ee723d88aa80800000000000000
+      internalID: -8455353052371507605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_147
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 194
+        width: 43
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd614fb393f26180800000000000000
+      internalID: -9123462079204725288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_148
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 194
+        width: 54
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07592177879c3ce10800000000000000
+      internalID: 2216836960827381104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_149
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 194
+        width: 56
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251090bd56f15bc0800000000000000
+      internalID: -3795982128641993436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_150
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 194
+        width: 49
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f04baac28b80930800000000000000
+      internalID: 4109737161957576551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_151
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 194
+        width: 52
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40311a5e3fbb501f0800000000000000
+      internalID: -1079249879481380092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_152
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 194
+        width: 35
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9efe805cc0e5230800000000000000
+      internalID: 3629352390105229748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_153
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 194
+        width: 36
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226a3923dcc152380800000000000000
+      internalID: -8996753012960287198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_154
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 193
+        width: 42
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9241376af66c90d40800000000000000
+      internalID: 5551186198547076137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_155
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 49
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f459ed2725b75a0800000000000000
+      internalID: -6522528982001954988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_156
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 194
+        width: 52
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec515aba1d9034970800000000000000
+      internalID: 8737838498161432014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_158
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 40
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db4f98d323d1d910800000000000000
+      internalID: 1860500271992359893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 54
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3291c56a97a0980800000000000000
+      internalID: -8571905185329634394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 131
+        width: 49
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4d298173a11bd00800000000000000
+      internalID: 986598617308648672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_162
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 131
+        width: 37
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e7e223e5637a50800000000000000
+      internalID: 6517665111952843465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_164
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 31
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e78c92e02e0b2f0800000000000000
+      internalID: -959018170171490774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_165
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 130
+        width: 31
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848f3567797770f10800000000000000
+      internalID: 2235887232421722184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_166
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 130
+        width: 31
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887628864764b9d0800000000000000
+      internalID: -2759467119041677184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_167
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 130
+        width: 31
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdce54665d593840800000000000000
+      internalID: 5204293470035824112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_168
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 130
+        width: 45
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5c13424f04f3fa0800000000000000
+      internalID: -5818860776215951926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_169
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 30
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1822c7dccdd550f0800000000000000
+      internalID: -1128752259723548643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_170
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 129
+        width: 31
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e040af4aee0b21420800000000000000
+      internalID: 2599334473962750990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_171
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 129
+        width: 31
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5181dbe24af4110f0800000000000000
+      internalID: -1148048863425390571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_172
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 129
+        width: 45
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f926091e533ac10800000000000000
+      internalID: 2063552297172115207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_173
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 129
+        width: 31
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c6719f766afd20800000000000000
+      internalID: 3313073173971782001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 41
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf5bf2c3c93a530800000000000000
+      internalID: 3865104687526444460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 52
+        width: 40
+        height: 69
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddaf6d7a1729b6d0800000000000000
+      internalID: -2974303084174398000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_177
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 120
+        width: 4
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909422edbeb3c7190800000000000000
+      internalID: -7963424156867737335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_178
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 53
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2547039068cff0280800000000000000
+      internalID: -9074757071518272430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_179
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 45
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80157f05aa2debda0800000000000000
+      internalID: -5927068430628335352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_180
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 49
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c539472bb4f41aea0800000000000000
+      internalID: -5863318053324549284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_181
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 49
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd9419dc9960550800000000000000
+      internalID: 6126753451269021598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_183
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 52
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2860388e28b749f10800000000000000
+      internalID: 2275579513905809026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_184
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 66
+        width: 45
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4592c5b8b4327190800000000000000
+      internalID: -7966246822936930997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_185
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 55
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a0b14bb63cc2eb0800000000000000
+      internalID: -4743201440177386910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_186
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 36
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e393c985571f93dd0800000000000000
+      internalID: -2505706231354869442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_187
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 35
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce45aa0513b3ee500800000000000000
+      internalID: 427344097639552236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_188
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 66
+        width: 33
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6a3c0bce29f5160800000000000000
+      internalID: 7016488289742071543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_189
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 39
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b535e18459cc3cf0800000000000000
+      internalID: -271120512755354190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 4
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005282cf80c637e50800000000000000
+      internalID: 6805902247732978944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_192
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 36
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e4c203b15791b00800000000000000
+      internalID: 799799168467750501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_193
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 35
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d932c179ec99c290800000000000000
+      internalID: -7869586347403363887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_194
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 33
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f17d51c3bda3f0800000000000000
+      internalID: -887855908444309141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_195
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 33
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ed776b3a61d5790800000000000000
+      internalID: -7539845308751552865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_196
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 37
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc41e0ba556445a80800000000000000
+      internalID: -8479074864675810100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_character_197
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 39
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9202d3697126f0800000000000000
+      internalID: -711153796515718155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
